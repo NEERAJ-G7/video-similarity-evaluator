@@ -1,0 +1,12 @@
+openai-whisper
+ffmpeg-python
+opencv-python
+Pillow
+pytesseract
+anthropic
+sentence-transformers
+nltk
+rouge-score
+scikit-learn
+torch
+numpy
